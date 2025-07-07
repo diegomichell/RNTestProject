@@ -1,0 +1,1 @@
+export const BASE_API = 'https://pokeapi.co/api/v2/pokemon?limit=100000&offset=0';
